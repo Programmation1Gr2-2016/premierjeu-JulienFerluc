@@ -23,3 +23,4 @@ C:\Users\ferlu\Google Drive\Cegep\Projets\premierjeu-JulienFerluc\Exercices jeux
 C:\Users\ferlu\Google Drive\Cegep\Projets\premierjeu-JulienFerluc\Exercices jeux\Exercice 01\obj\x86\Debug\Exercice 01.csprojResolveAssemblyReference.cache
 C:\Users\ferlu\Google Drive\Cegep\Projets\premierjeu-JulienFerluc\Exercices jeux\Exercice 01\obj\x86\Debug\Exercice 01.exe
 C:\Users\ferlu\Google Drive\Cegep\Projets\premierjeu-JulienFerluc\Exercices jeux\Exercice 01\obj\x86\Debug\Exercice 01.pdb
+C:\Users\ferlu\Google Drive\Cegep\Projets\premierjeu-JulienFerluc\Exercices jeux\Exercice 01\bin\Windows\x86\Debug\Content\sprite.png
