@@ -57,6 +57,9 @@
     <Content Include="Content\Cloud.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\GreenShell.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Content\Mario.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
